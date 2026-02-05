@@ -1,6 +1,7 @@
 # Shangri-La Referendum 🗳️
 
 **My Shangri-La Referendum (MSLR)** is a full-stack web-based voting platform developed as part of a final-year university assignment for *Mobile and Web Applications*.  
+As of 12/01/26, you can view the project here `https://shangrilareferendum.web.app/`
 
 ---
 
